@@ -1,0 +1,144 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Hyelim Do
+    tagline: Computational Scientist
+    avatar: hyelim2.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: dohyelim@snu.ac.kr
+    telegram: hyelimdo # add your nickname without '@' sign
+    website: dodo_nuna_2nd
+    
+    languages:
+      - idiom: Korean
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+      - idiom: German
+        level: Beginner
+
+      - idiom: Japanese
+        level: Beginner
+
+    interests:
+      - item: Hanging out with dogs
+        link:
+
+      - item: Pilates
+        link:
+
+      - item: Eating
+        link:
+        
+      - item: Jigsaw Puzzle
+        link:
+       
+
+career-profile:
+    title: Photos
+    summary1: |
+      Photos of me participating in extra-curricular activities
+    summary2: |
+      Photos of structures that I implemented using Mathematica and randered by Keyshot   
+      
+education:
+    - degree: MSc in Computational Science and Technology
+      university: Seoul National University
+      time: 2018 - 2020
+      details: |
+        
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Energy Resources Engineering
+      university: Seoul National University
+      time: 2013 - 2018
+      details: |
+        
+          - Bullet point
+          - Bullet point
+experiences:
+    - role: Intern at Extreme Materials Research Center
+      time: Sep, 2020 - Present
+      company: Korea Institute of Science and Technology, Republic of Korea
+      details: |
+          - Patent in Progress: Metastable 3D lattice by topological defects
+    - role: Visiting Student at Computational Science Research Center
+      time: Nov, 2019 - Aug, 2020
+      company: Korea Institute of Science and Technology, Republic of Korea
+      details: |
+          - Patent in Progress: Foldable conformal masks from facial landmarks 
+    - role: Manager at Question and Answering Technology Team
+      time: Apr, 2019 - Aug, 2019
+      company: 42maru, Republic of Korea
+      details: |
+          - Oral Presentation (at Europe-Korea Conference on Science and Technology):             Developing QA algorith using Machine Reading Comprehension
+
+projects:
+    title: Teaching Experiences
+    intro: > 
+    assignments:
+      - title: Digital Computer Concept and Practice
+        link: "#hook"
+        tagline: "College of Business Administration, SNU"
+
+      - title: Engineering Mathematics 2
+        link: "#"
+        tagline: "Department of Energy Resources Engineering, SNU"
+
+      - title: Calculus for Life Science 1
+        link: "#"
+        tagline: "Department of Mathematical Sciences, SNU"
+
+      - title: Calculus 1
+        link: "#"
+        tagline: "Department of Mathematical Sciences, SNU"
+
+publications:
+    title: Awards and Honors 
+    intro: 
+      
+    papers:
+      - title: Talent Award of Korea
+        link: "#"
+        authors: Ministry of Education
+        conference: "Bestowed by the Deputy Prime Minister and Minister of Education of Korea, 2018"
+
+      - title: Honorary member of STEM (SNU Tomorrow's Engineers Membership)
+        link: "#"
+        authors: College of Engineering, SNU
+        conference: "Bestowed by the Dean of the College of Engineering, Seoul National University, 2019"
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 98%
+
+      - name: Mathematica
+        level: 100%
+
+      - name: Matlab
+        level: 68%
+
+      - name: C/C++
+        level: 50%
+
+      - name: R
+        level: 45%
+
+      - name: Meshmixer & Blender & Rhino
+        level: 55%
+
+footer: >
+    <i class="fas fa-heart"></i> Hyelim Do </a> <i class="fas fa-heart"></i>
